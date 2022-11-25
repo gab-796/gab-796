@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriel Rocha
 - 👀 I’m interested in DevOps tech
-- 🌱 I’m currently learning Grafana Loki and Tempo
+- 🌱 I’m currently learning the Grafana Stack (Loki,Tempo and Grafana) + PagerDuty and AlertManager
 - 📫 How to reach me gabriel.rocha@ufrj.br
 
 <!---
