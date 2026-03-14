@@ -23,15 +23,15 @@ I'm currently maintaining a [Go-based API](https://github.com/gab-796/api-observ
 ---
 
 ### 📊 Impact & Metrics
-* [cite_start]Managed **14 TB+ of daily logs** across 40 Kubernetes clusters.
-* [cite_start]Reduced critical alert noise by **90%** through telemetry governance.
-* [cite_start]Implemented **OTel** as the primary metrics motor for Grafana Mimir in production.
+* Managed **14 TB+ of daily logs** across 40 Kubernetes clusters.
+* Reduced critical alert noise by **90%** through telemetry governance.
+* Implemented **OTel** as the primary metrics motor for Grafana Mimir in production.
 
 ---
 
 ### 📫 Connect with me
-* [cite_start]**Email:** gabriel.rocha@ufrj.br
-* [cite_start]**LinkedIn:** [linkedin.com/in/gabrielrocha14](https://linkedin.com/in/gabrielrocha14)
+* **Email:** gabriel.rocha@ufrj.br
+* **LinkedIn:** [linkedin.com/in/gabrielrocha14](https://linkedin.com/in/gabrielrocha14)
 <!---
 gab-796/gab-796 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
